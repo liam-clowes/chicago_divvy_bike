@@ -48,6 +48,20 @@ EDA involved exploring the Divvy dataset to answer my key questions:
 - Using the available data from the dataset and other open sources (e.g. Google Maps and business websites), is it possible to track the habits of, and potentially identify, individual users?
 - How can this information be applies to other geospatial datasets?
 
+Columns in the dataset:
+ride_id (ride id)
+rideable_type (electric or classic)
+started_at (time started)
+ended_at (time ended)
+start_station_name (station name - start)
+end_station_name (station name - end)
+start_lat (start latitude)
+start_lng (start longitude)
+end_lat (end latitude)
+end_lng (end longitude)
+member_casual (member, single ride, day pass)
+
+
 ### Data Analysis
 
 ```
