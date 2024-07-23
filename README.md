@@ -50,6 +50,8 @@ EDA involved exploring the Divvy dataset to answer my key questions:
 
 ### Data Analysis
 
-
+```
+insert some interesting code/features worked with
+```
 
 
