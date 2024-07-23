@@ -1,6 +1,6 @@
 ### chicago_divvy_bike
 # Chartered Territories: Testing the boundaries of data protection in geospatial datasets 
-## (Capstone Project, Spiced Academy)
+## (Capstone Project, Spiced Academy 2024)
 
 -- Add TOC -- 
 
@@ -28,5 +28,28 @@ This project aims to uncover insights into the habits of Chicago's Divvy bike-sh
 - **Plotly**: For interactive graphing.
 - **Geopy**: For geocoding and geographical operations.
 - **Google Maps**: For cross-referencing locations and identifying buildings at each station/on each route.
+
+### Data Cleaning & Preparation
+
+In the initial data preparation phase, I performed the following tasks:
+1. Data loading and inspection
+2. Identifying busiest quarter of each year
+3. Handling missing/null values
+4. Handling outliers
+5. Data cleaning and formatting
+
+### Exploratory Data Analysis 
+
+EDA involved exploring the Divvy dataset to answer my key questions: 
+
+- What sort of trends can be identified within each user group (members vs. casual, electric vs. docked/classic)?
+- Is it possible to do clustering within user groups?
+- By looking at the top stations/routes, am I able to identify possible target businesses in surrounding areas for bike-share schemes/campaigns?
+- Using the available data from the dataset and other open sources (e.g. Google Maps and business websites), is it possible to track the habits of, and potentially identify, individual users?
+- How can this information be applies to other geospatial datasets?
+
+### Data Analysis
+
+
 
 
